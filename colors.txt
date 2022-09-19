@@ -1,8 +1,8 @@
-red
-yellow
-pink
-blue
-purple
-black
-golden
-wight
+Red
+Yellow
+Pink
+Blue
+Purple
+Black
+Golden
+White

@@ -1,5 +1,6 @@
-apple
-orange
-banana
-mango
-watermelan
+Apple
+Orange
+Banana
+Mango
+Watermelon
+Melon
