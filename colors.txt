@@ -4,3 +4,5 @@ pink
 blue
 purple
 black
+golden
+wight
