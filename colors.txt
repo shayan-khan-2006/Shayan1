@@ -1,4 +1,5 @@
 Red
+khan
 Yellow
 Pink
 Blue
@@ -6,3 +7,6 @@ Purple
 Black
 Golden
 White
+Lavendar
+OLive
+shayan
